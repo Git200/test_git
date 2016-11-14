@@ -1,5 +1,16 @@
-package com.example;
+﻿package com.example;
 // Комментарий
+// Еще один комментарий
+
+// Третий комментарий
+// третий комментарий - здесь я исправила
+// Четвертый комментарий
+// Пятый комментарий
+// Шестой ком
+// Седьмой коммент
+// восьмой коммент
+// ненужный коммит
+// 10 коммиит5666
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
