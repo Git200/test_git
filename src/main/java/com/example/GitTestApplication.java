@@ -7,6 +7,7 @@
 // Четвертый комментарий
 // Пятый комментарий
 // Шестой ком
+// Седьмой коммент
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
