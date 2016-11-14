@@ -4,6 +4,7 @@
 
 // Третий комментарий
 // третий комментарий - здесь я исправила
+// Четвертый комментарий
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
