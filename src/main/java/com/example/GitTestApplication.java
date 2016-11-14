@@ -1,7 +1,9 @@
-package com.example;
+﻿package com.example;
 // Комментарий
 // Еще один комментарий
+
 // Третий комментарий
+// третий комментарий - здесь я исправила
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
