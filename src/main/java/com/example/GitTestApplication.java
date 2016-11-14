@@ -9,6 +9,7 @@
 // Шестой ком
 // Седьмой коммент
 // восьмой коммент
+// ненужный коммит
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
